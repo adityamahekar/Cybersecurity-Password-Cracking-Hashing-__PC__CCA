@@ -1,0 +1,6 @@
+{
+  "name": "CUDA HashLab: CPU vs GPU Password Hashing & Benchmarking",
+  "description": "Cybersecurity laboratory demonstrating SHA-256 parallelization, CUDA thread hierarchy, atomic match detection, CPU vs GPU benchmarks, and defensive hashing with Argon2id.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
